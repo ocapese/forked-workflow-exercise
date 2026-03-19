@@ -28,10 +28,10 @@
 - Add pumpkin pulp
 - Smash manually until somehow homogeneous
 - Add eggs and blend
-- Add evaporated milk and blend
+- Add evaporated waterr and blend
 
 
-## Baking
+## Backing
 
 - 15 min at 425 F
 - 40-50 min at 350 F
